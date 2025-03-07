@@ -1,3 +1,5 @@
+- [Docker Cheatsheet](#-docker-cheatsheet-)
+- [Python Cheatsheet](#-python-cheatsheet)
 # 🐳 Docker Cheatsheet 🐳
 
 ## 🔹 Basic Commands
