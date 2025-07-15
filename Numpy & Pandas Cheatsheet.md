@@ -1,5 +1,5 @@
 # 📦 NumPy & pandas Cheatsheet
-🐼[Pandas](#-pandas--data-analysis)
+- ### 🐼[Pandas](#-pandas--data-analysis)
 ## ✨ NumPy – Numerical computing
 
 ```python
