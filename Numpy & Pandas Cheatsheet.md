@@ -1,5 +1,5 @@
 # 📦 NumPy & pandas Cheatsheet
-
+[Pandas](https://github.com/diwash-sresta/cheatsheet/edit/main/Numpy%20%26%20Pandas%20Cheatsheet.md#-pandas--data-analysis)
 ## ✨ NumPy – Numerical computing
 
 ```python
